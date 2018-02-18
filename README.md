@@ -1,7 +1,5 @@
-# react-backend
 
-
-in the directory 
+in the same directory 
 # npm install
 
 
