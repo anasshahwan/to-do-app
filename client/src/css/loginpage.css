@@ -1,0 +1,24 @@
+  body{
+
+     background-color: lightgrey;
+  }
+#loginDiv a{
+      color: #000!important;
+      background-color: #FFF!important;
+      border-color: #007bff;
+      border-radius: 30px;
+      padding: 15px;
+      margin: 14px;
+    }
+
+    #loginDiv{
+      width: 320px;
+      border: 1px solid #fff;
+    margin-top: 122px;
+    border-radius: 11px;
+    height: 277px;
+    }
+
+    button{
+      margin-bottom: 20px;
+    }
